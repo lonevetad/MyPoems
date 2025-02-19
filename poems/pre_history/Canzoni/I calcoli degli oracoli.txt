@@ -1,0 +1,58 @@
+I calcoli degli oracoli - Canzone sulla probabilità
+
+
+-) Questi eventi si susseguono come una catena,
+- si ripetono col ritmo d'una cantilena
+- è un flusso, non lo fermi, come 'l tempo o fiume in piena
+- ma ci sarà uno schema per preveder' la nuova scena.
+
+-) Ogni causa ha il suo effetto, nulla nasce dal niente,
+- e qualche aspetto da un altro è spesso dipendente,
+- il legame a volte è stretto, in altre non si sente
+- come in casa l'affetto e tra lo sciame di gente.
+
+-) Con predizioni d'ogne sorte si sfida la sorte
+- son' scorte soluzioni ripartendoli come torte, 16
+- non carte, pendoli o cose contorte: con storte
+- monete avvio "processi di nascita e morte".
+
+-) Quindi la realtà rappresento con un modello
+- a ogni particolare associo 'n valore ed intervallo
+- il sistema è scritto in stati col tempo a granello
+- che s'evolvono in varie vie, talvolta ad anello.
+
+-) Le variabili aleatorie ne sono i mattoni,
+- son' tipi vari con le proprie distribuzioni,
+- se ne testi il valore in molte iterazioni
+- spiegan' esiti dei casi e relative proporzioni .
+
+old) Le variabili aleatorie sono la partenza
+-
+-
+- ogni valore del dominio ha la sua frequenza
+intelligenza,
+
+
+-)
+- Ogni pezzo del reale, con valore e frequenza,
+-
+-
+- per aver coscienza serve più profonda intelligenza
+
+-) E allora scavo nel passato..
+
+
+
+-) Questo è 'l genio della catena di Markov,
+- accende soluzioni estese come una Molotov
+- porta evoluzioni come 'l porto di Glasgow
+- attraverso il tempo con l'equazioni di Kolmogorov
+
+E la 5 attacca dicendo che ci sono altri sistemi per descrivere le evoluzioni del sistema
+
+-) Non è 'l solo sistema per descrivere sistemi
+- a fantasia e logica non si pongono freni
+- v'espongo varie prassi per altre classi di problemi,
+- insiemi con nuovi approcci, visioni e schemi.
+
+

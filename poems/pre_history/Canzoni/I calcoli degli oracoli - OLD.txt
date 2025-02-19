@@ -1,0 +1,45 @@
+I calcoli degli oracoli - Canzone sulla probabilità
+
+1) Questi eventi si susseguono come una catena,
+- si ripetono col ritmo d'una cantilena
+- è un flusso, non lo fermi, come 'l tempo o fiume in piena
+- ma ci sarà uno schema per preveder la nuova scena.
+
+2) Ogni causa ha il suo effetto, nulla nasce dal niente,
+- e qualche aspetto da un altro è dipendente,
+- il legame è spesso stretto, altre volte non si sente
+- come in casa l'affetto e tra lo sciame di gente.
+
+3) Quindi la realtà rappresento con un modello
+- a ogni particolare associo 'n valore ed intervallo
+- il sistema è scritto in stati col tempo a granello
+- che s'evolvono in varie vie, talvolta ad anello.
+
+4) Questo è 'l genio della catena di Markov,
+- accende soluzioni estese come una Molotov
+- porta evoluzioni come 'l porto di Glasgow
+- attraverso il tempo con l'equazioni di Kolmogorov
+
+E la 5 attacca dicendo che ci sono altri sistemi per descrivere le evoluzioni del sistema
+
+5) Non è 'l solo sistema per descrivere sistemi
+- a fantasia e logica non si pongono freni
+- v'espongo varie prassi per altre classi di problemi,
+- insiemi con nuovi approcci, visioni e schemi.
+
+6) Predicendo si sfida la sorte
+- ripartendo il problema come le torte,
+- con monete, carte .. contorte
+- .. processo... Di nascita e morte
+
+6) Le variabili aleatorie sono i mattoni,
+- son tipi vari con le proprie distribuzioni,
+- ossia se ne testi il valore in molte iterazioni
+- risulteranno numeri con precise proporzioni 
+
+Oppure
+
+6) Le variabili aleatorie sono la partenza
+-
+-
+- ogni valore del dominio ha la sua frequenza

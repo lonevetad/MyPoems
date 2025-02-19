@@ -1,0 +1,644 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+
+%new environments
+\newenvironment{centerSentence}{%
+  \setlength\topsep{0pt}
+  \setlength\parskip{0pt}
+  \begin{center}
+}{%
+  \end{center}
+}
+
+%new commands
+\newcommand{\myparagraph}[1]{\paragraph{#1}\mbox{}\\}
+\newcommand{\poetryblock}[1]{\mbox{}\newline - \textit{#1}\\}
+
+\title{Scritti a caso}
+\date{20/12/2017}
+\author{Marco Ottina}
+
+%special settings
+\setcounter{tocdepth}{3}
+
+\begin{document}
+\maketitle
+\begin{centerSentence}
+Introspezione e confessioni nella mia prima raccolta di poesie. \\
+Dedicato ad una persona speciale. \\
+Siamo la combinazione delle nostre scelte, non solo delle circostanze in cui nasciamo.
+\end{centerSentence}
+\vfill
+Telephone: 3497037345 \\
+E-mail: ottins1995@gmail.com
+\newpage
+% * <ottins1995@gmail.com> 2017-12-20T16:06:24.500Z:
+%
+% ^.
+\tableofcontents
+\newpage
+
+%4 sezioni, le subsection sono i sottogruppi di poesie, le subsubsection sono le singole poesie, i paragraph sono {poesia, dati tecnici, introduzione all'ambiente, spiegazione passo passo}
+
+\section{Dediche}
+
+Se la Vita fosse un percorso, allora ogni giorno, ogni mansione, ogni occasione, tutto ciò che accade ed è fatto sarebbe un passo. Talvolta si inciampa in una buca, un sasso o una radice, o ci si infanga, in altre occasioni si trova ristoro nel morbido prato. In ogni caso è necessario trovare la forza di compiere un nuovo passo per proseguire e giungere alla meta. \newline
+Le persone a noi care, in particolare gli amici, sono proprio quel prato, coloro che ci danno la forza di sorridere ancora e di fare un ulteriore passo, rialzandoci e spronandoci quando si cade. Di certo è fondamentale sapersi reggere da soli ed avere autonomia, ma il lupo solitario non ha vita facile e talvolta si ha bisogno dell'aiuto di quelle persone per affrontare le avversità e trovare la felicità, o anche solo un po' di Luce. Talvolta invece ciò può essere trovato diventando noi stessi fonte di forza, sostegno e luce per chi ci sta a cuore.
+\newline
+Proprio a queste persone io dico un "grazie" di cuore, per avermi ispirato, sostenuto, spronato e fatto crescere. \newline
+Dedico questa raccolta in particolar modo ad una ragazza: Irene Negri.\newline
+In poco tempo mi ha cambiato la vita, raddrizzandomi la rotta, insengandomi ad amare e facendomi tornare a sognare. Mi ha anche un po' cresciuto, facendomi aprire gli occhi su una realtà fin troppo mascherata. Le devo la vita, anche perchè se sorrido ancora con naturalezza è grazie a lei. \newline
+A te, mia cara \textit{sorella}, un pensiero di sincero affetto, un abbraccio ed un grazie.
+
+\newpage
+\section{Introduzione al libro e alla struttura d'esposizione}
+
+Ognuno di noi è un dipinto, un insieme di pennellate e getti di colore che formano il quadro unico ed inimitabile che siamo. Un'opera fatta prima con qualche bozza che ne dia la base e poi tante rifiniture a decorare, o correggere. Ma un quadro è davvero vivo e non appare finto e inventato se i colori sono ben variegati. Noi tutti siamo un dipinto e non saremmo completi se ai colori caldi e morbidi non accostassimo colori più freddi e duri, a dare risalto e contrasto. \newline
+Così è l'esposizione delle poesie: un agglomerato di poesie dolci e crude.
+\\[1pc]
+Quasi tutte le poesie, se non la totalità, sono a carattere psicologico-introspettivo: adoro analizzare e riportare la natura umana, anche nei suoi lati più oscuri e nascosti. Si cerca quasi sempre il bello, il buono, il felice e il comodo ed è giusto che sia così. Ma le loro controparti non smetteranno mai di esistere e conviene conoscerle per poterle riconoscere e difenderci da esse. \newline
+Il mio obiettivo è portare alla luce quel "qualcosa" di noi che spesso non si conosce abbastanza e far riflettere.
+\\[1pc]
+Tutto ciò, nella speranza di insegnare ai lettori e lettrici di trovare la forza di combattere e di gioire e gustare meglio i momenti felici.  \newline
+Questo perchè troppo spesso si dà la felicità, o meglio la semplicità, per scontato e si affrontano i problemi con sufficienza e superficialità. Conoscendoli invece un goccio più a fondo diventa più probabile risolverli, magari riducendo gli effetti collaterali. \newline
+Questo obiettivo potrebbe far considerare i miei scritti come "poesia impegnata", se si guardasse la faccia positiva della medaglia. Sinceramente spero che possa essere così: essere d'aiuto mi fa sentire realizzato, essendo uno dei miei obiettivi. 
+\\[1pc]
+Guardando l'altro invece si potrebbe scorgere insicurezza e malinconia che si cerca di curare elargendo consigli che, in realtà, potrebbero essere destinati a me stesso. Vero, la malinconia è una emozione predominante in tutta la raccolta. Questo avviene anche per due ragioni in particolare, Innanzitutto in ogni persona una emozione negativa tende a predominare sulle altre, ossia tende a manifestarsi con maggiore frequenza e/o intensità in situazioni di crisi o debolezza e la malinconia è probabilmente la mia. \newline
+In secondo luogo la mente tende a rifugiarsi, o a fuggire, nelle realtà in cui trova più facilmente soddisfazioni, sfoghi, libertà o senso di appagamento e realizzazione nei momenti di crisi intense, di marcata tristezza o di disperazione. Alcune persone trovano questa valvola nella lettura, nello sport, nel cibo o nella socializzazione. Le alternative sono molte ma tra queste vi è anche l'arte. Non ardisco a ritenermi un artista, men che meno un poeta, non credo che spetti a me d'essere reputato degno di un tale titolo, ma di sicuro la poesia ha svolto il ruolo di valvola in molte occasioni.
+\\[1pc]
+Come si sarà già notato, adoro riflettere sulla natura umana in generale. In particolare, rifletto su cosa spinge le persone a compiere determinate azioni e su quali regole governano le prime, cercando di ritrarre lo stato emotivo il più dettagliatamente possibile con le immagini, sperando di non eccedere e diventare prolisso. Ebbene, ripeto, è questo il tema principale e spero di essere riuscito a trattarlo con chiarezza, saggezza e, soprattutto, correttezza. \newline
+Spero con tutto me stesso di aver portato alla luce qualche verità senza commettere errori, perchè sono abbastanza convinto che ancor peggiore dell'assenza di idee siano le idee "sbagliate".
+\\[1pc]
+Le poesie sono presentate seguendo una struttura al fine di facilitarne l'esame:
+ \begin{itemize}
+  \item La poesia, con titolo e data di creazione
+  \item Introduzione all'ambiente e sintesi
+  \item Spiegazione passo passo
+\end{itemize}
+La \textit{Introduzione all'ambiente} consiste nello spiegare che cosa mi ha portato a scrivere quella data poesia. Più precisamente, emozioni, pensieri, problemi predomanti e persone che in quella circostanza erano presenti, al fine di facilitare la comprensione della poesia e contestualizzarla.
+\newline
+La \textit{Spietgazione passo passo} è la descrizione precisa e profonda di ogni singola parte della poesia. Solitamente i singoli versi sono considerati come unità, ma talvolta posso essere prese in analisi più di un verso contemporaneamente oppure una sola frazione di esso. Lo scopo è rimuovere ogni possibile dubbio lasciando la sola interpretazione valida, ossia quella da me cercata.
+\newline
+Quasi tutte le poesie, soprattutto quelle a partire dalla fine della Scuola Superiore, sono strutturate secondo uno schema di rime rigido, che ammette molto raramente delle eccezioni. Ogni verso è composto da otto strofe: ABBABCDC, con la "C" che viene utilizzata come "A" dell'ottava successiva. La lunghezza del verso può variare: nelle poesie scritte negli ultimi due anni di Scuola Superiore essi sono quasi tutti lunghi sedici sillabe. Tale lunghezza si è però rivelata essere palesemente eccessiva ed è stata ridotta ad una fascia di valori più flessibile: da undici a quattordici sillabe, con rarissime eccezioni di quindici sillabe e preferendo le dodici o tredici sillabe. 
+
+\newpage
+\section{Poesie della "prima maturità" (17-23 anni)}
+%\newline
+\subsection{Introduzione}
+%\newline
+
+Ho iniziato a scrivere poesie durante la Scuola Media, producendo per lo più frasi in rima. Come verrà meglio illustrato nella sezione "Poesie dei primi passi", lo stile di composizione di quelle primordiali poesie è abbastanza caotico e improvvisato, il che mi ha portato a scrivere poesie spesso complicate, intricate e difficili non solo da comprendere, ma anche da leggere. Dopo alcuni tentativi, attorno al quinto anno di Scuola Superiore, ho deciso di cambiare un po' lo stile, accorciando la lunghezza dei versi, con un conseguente alleggerimento della lettura, e rendendo le frasi più prossime alla comune parlata, facendole diventare quindi più semplici e scorrevoli.
+\newline
+Le poesie scritte a partire, approssimativamente, da quel punto sono raccolte in questa macrosezione, a sua volta divise in tre sottoinsiemi:
+ \begin{itemize}
+  \item Poesie dedicate ad Irene Negri
+  \item Altre Riflessioni
+  \item Poema della Landa Oscura
+    \item Bozze incompiute
+\end{itemize}
+Essendo questa raccolta dedicata ad Irene, la prima sezione di poesie raccoglie proprio quelle dedicate a lei, a sottolineare inoltre l'importanza che riveste questa persona. \newline
+L'ultimo capitolo è un insieme di poesie incomplete, che possono però completare il quadro e fornire una maggiore visione di insieme. \newline
+Il \textit{Poema della Landa Oscura} è un lungo racconto che fa riferimento a molti altri scritti e riflessioni, ma null'altro verrà anticipato al fine di non rovinare la sorpresa. \newline
+Tutte le altre poesie sono raggruppate in quest'unico sottoinsieme che, quasi paradossalmente, è la sconda sezione, ossia quella riguardante la \textit{Landa Oscura}. Eppure la precede perchè spesso nella \textit{Landa Oscura} ci sono citazioni a versi, frasi o anche solo concetti contenuti in altre poesie scritte da me medesimo, o anche raramente da altri, come la \textit{Divina Commedia} di Dante Alighieri o \textit{1984} di George Orwell. Leggendole prima è quindi più facile cogliere appieno e con maggiore immediatezza quei riferimenti, comprendendo meglio la natura introspettiva del poema.
+
+\newpage
+\subsection{Poesie dedicate ad Irene Negri}
+Come già anticipato, il ruolo e l'importanza che questa persona ricopre sono unici, è diventata in poco tempo fondamentale, ispirandomi ideali, speranza e forza, grazie ai quali procedo ogni giorno con energia e vitalità in tutto ciò che faccio e mi raddrizzo quando deraglio. \newline
+Non solo: mi ha ispirato anche molte riflessioni e, di conseguenza, molte poesie, incidendo anche nel poema della \textit{Landa Oscura}. \\[1pc]
+Non so quanto avrei potuto scrivere ed essere senza di Lei. Sicuramente sarei una persona diversa, con frammenti d'anima diversi riposti tra le lettere di queste poesie. Magari avrei affrontato altri temi, o non li avrei affrontati proprio, magari ignorandoli. Non si può sapere. Ma di sicuro dei concetti e delle idee sono maturate, spero non solo loro, e dei frutti sono saltati fuori offrendoVi del materiale su cui riflettere e, magari, crescere. Negli scritti che seguono c'è tutto ciò (anche se è ben più presente in quelli più recenti di \textit{Altre riflessioni}) miscelati con immagini dolci ed altre sognanti. \\[1pc]
+Il legame forte, sincero, naturale ed affettuoso permea tutta la Storia sin da quando abbiamo stretto amicizia. Tutto ciò accompagnato da un intenso desiderio di trascorrere ogni momento della vita al Suo fianco, sostenendoci nella cattiva sorte e gioendo assieme in quella buona, cercando quest'ultima assieme, tra risate, confidenze e il placido giocare di due migliori amici.
+\\[1pc]
+Potrei descrivere \textit{Lei} e \textit{Noi} per pagine e pagine, definendo un discorso in parte biografico, ma lascio che siano le poesie a parlare al posto mio. \\[1pc]
+Alcuni dettagli vanno però aggiunti prima della fine dell'introduzione. \\
+Talvolta compare il nome \textit{Ringil}: significa \textit{stella fredda} e deriva da una storia che Lei lesse anni addietro. Tale nome le piacque talmente tanto da decidere di prenderlo come nome d'arte. Di conseguenza, uso questo nome come pseudonimo. \\
+Sono ricorrenti tre temi. \\
+In primo luogo, si descrive l'importanza che Lei ha per me, l'influenza positiva che vivo stando al Suo fianco e l'affetto che provo per Lei. \\
+Il secondo tema è costituito dai sogni di amore che hanno Lei come protagonista. \\
+L'ultimo tema è un pensiero assai ricorrente, quasi ossessivo: ho commesso un errore, le cui conseguenze causano un forte, intramontabile struggimento. \\[1pc]
+Alcune delle poesie prodotte entro la fine di agosto 2017 hanno una origine strana. Fino a tale data Lei ed io ci vedevamo spesso a casa dei miei genitori, a Cossato (BI), rimanendo fino alle circa due di notte, spesso precise, per poi rincasare e dormire. In quel periodo era tutt'altro che raro che, appena dopo che Lei andava via tornando a casa sua, la magica atmosfera da lei conferita svanisse e la tranquillità mentale ed emotiva venisse soppiantata da un turbinio di pensieri malinconici con lacrime annesse. Tale struggimento ha agito da motore per la produzione poetica, la quale ha svolto la funzione di valvola di sfogo e di veicolo di pensieri, emozioni, sogni e paure.
+
+
+
+\newpage
+\subsubsection{Ritratto d'un sogno}
+\myparagraph{05/05/2017 - 03:xx}
+Ravviva il tuo riso mille favelle,\newline
+da mente e cuore scacci il gelo,\newline
+scateni come falchi e nembi in cielo,\newline
+tu che muovi il Sole e le altre stelle.\newline
+Col cerchio d'oro vorrei levare il velo\newline
+e fondare il sogno d'una culla vivace,\newline
+dolce serafina dall'aura bianca\newline
+che nel nome porti vita e pace.
+\\[1pc]
+\myparagraph{Introduzione all'ambiente e sintesi}
+
+Due sono i temi principali trattati: elogio ad Irene e sogni sul futuro.
+In quel periodo il legame tra me e Lei era già ben saldo, conoscevo molto bene le sue numerose qualità ed i miei sentimenti nei suoi confronti erano ben confermati. \newline
+Ispirato dai momenti felici passati assieme ho desiderato renderLe omaggio tramite alcuni elogi, sottolineando alcuni degli effetti che la sua presenza e vicinanza mi faceva e fa tutt'ora.\newline
+Come già anticipato nell'introduzione, sogni di felicità e di vicinanza hanno permeato tutto il tempo trascorso assieme e ho desiderato riportarli nero su bianco.
+\\[1pc]
+\myparagraph{Spiegazione passo passo}
+
+\poetryblock{Ravviva il tuo riso mille favelle,}
+con \textit{riso} si intende sia \textit{sorriso}, ricalcando lo stile poetico del \textit{Dolce Stil Novo}, sia \textit{risata} e con \textit{favelle}, altro termine antico, si intende \textit{fiamme}. Le fiamme qui citate che Lei riesce a riaccendere e a riportare alla vita sono quelle della gioia, della spensieratezza e dell'amore.
+
+\poetryblock{da mente e cuore scacci il gelo,}
+diretta conseguenza è una sensazione di calore, metaforico, che è in grado di suscitare. \textit{Gelo} è inteso anche come \textit{freddezza nel carattere e nelle emozioni}, ossia egoismo, apatia, eccessivo materialismo e tristezza.
+
+\poetryblock{scateni come falchi e nembi in cielo}
+\textit{scateni} è inteso come \textit{togliere le catene}, ossia rimuovere tutti quei vincoli, quei blocchi psicologici e comportamentali, quelle paure, quegli ostacoli che limitano l'espressività dell'essere. Detto con parole più semplici, al suo fianco mi sento libero di essere me stesso, naturale, libero da ogni peso e preoccupazione, esiste solo Lei ed il tempo che passiamo assieme. Le nuvole, ossia i \textit{nembi}, sono uno degli elementi più ricorrenti e, come verrà ben esplicitato nella sezione introduttiva di \textit{Altre Riflessioni}, essere rappresentano la \textit{libertà assoluta}, intesa nel significato letterale di "assoluto", ossia "senza vincoli". I \textit{falchi} sono altri animali che, vivendo nel cielo, sono segno di libertà.
+
+\poetryblock{tu che muovi il Sole e le altre stelle.}
+Questa è una marcata, palese e quasi totale citazione all'ultimo verso dell'ultimo Canto dell'ultima Cantica della \textit{Divina Commedia} di Dante Alighieri: il verso conclusivo del \textit{Paradiso}. Oltre ad alcune piccole modifiche per utilizzare un italiano più moderno, le differenze sono due: \textit{L'amor} è stato sostituito con \textit{tu} e la descrizione non si riferisce più a Dio ma ad Irene stessa. L'elgio pare essere palese, ma va precisato con due aggiunte: Lei è anche la fonte di luce nei miei giorni e attorno a Lei pensieri e cuore ruotano. 
+
+\poetryblock{Col cerchio d'oro vorrei levare il velo}
+Questo è un riferimento al matrimonio: il \textit{cerchio d'oro} è l'anello nuziale mentre il \textit{velo} è quello tipicamente indossato dalle spose. Il significato mi sembra essere sufficientemente palese. 
+
+\poetryblock{e fondare il sogno d'una culla vivace,}
+La \textit{culla vivace} sarebbe una famiglia allegra e viva, felice. Questo sogno, che ho sin da piccolo, vorrei trovasse fondamento e venisse contretizzato con Lei. \textit{Culla} è una immagine tenera per indicare la famiglia ed i figli.
+
+\poetryblock{dolce serafina dall'aura bianca}
+I Serafini sono gli angeli più vicini a Dio, quindi quelli che potrebbero essere definiti come i più \textit{elevati}, aventi valore maggiore. La figura di Lei viene e verrà spesso paragonata ad un angelo per le Sue qualità. L'\textit{aura} è intesa come \textit{energia vitale, carattere e spirito}, come se fosse l'anima. Il bianco è simbolo di purezza, perfezione ed equilibrio.
+
+\poetryblock{che nel nome porti vita e pace.}
+Il significato del nome \textit{Irene} è proprio \textit{pace} e, non a caso, la pace e la serenità sono due dei doni che mi infonde la Sua vicinanza. Il Suo nome assume quindi una doppia importanza, grazie alla coerenza tra il significato del nome stesso e lo stato d'animo che infonde. ("Marco", che deriva da "Ares", dio romano della guerra, cosa dovrebbe significare, allora?)
+\textit{Vita} è collegato al già descritto concetto di \textit{ravvivare}, a sottolineare l'effetto positivo che Lei ha su di me.
+\newpage
+\subsubsection{Ringil, la speranza}
+\myparagraph{16/06/2017 - 02:20}
+Ti rimiro stella fredda, guida astrale, \\
+quando volgo occhi al cielo \\
+perché distorge vista e fato un velo \\
+e sogno di scostare quello nuziale. \\
+A risaltarti i pregi e pura simbiosi anelo, \\
+qual nembo che Luce non oscura \\
+ma diffonde e rischiara il mondo, \\
+così il tuo affetto scaccia ogni paura.
+\\[1pc]
+\myparagraph{Introduzione all'ambiente e sintesi}
+%\\[1pc]
+Avevo trascorso una bella serata con Lei e, ispirato dalla tempesta di emozioni, ho trascritto pensieri e alcuni sogni. \\
+Tra queste emozioni, però, c'è della malinconia un po' velata, ma è possibile scorgerla. Sembra simile alla precedente, ma questa poesia nasconde alcune particolarità che inizierò ad evidenziare nella sintesi.\\
+Nella notte, alzo gli occhi al cielo e trovo la Stella Polare, conosciuta anche per essere una guida, un punto di riferimento, e penso a Lei. \\
+La nostalgia e il desiderio di amare, con la sofferenza che ne deriva, mi copre gli occhi di un velo di lacrime, divenendo difficile vedere sia la realtà concreta che il mio destino più in generale.\\
+Desidero, infatti, passare la mia vita con Lei, l'uno affianco all'altro, aiutandosi e sostenendosi a vicenda come in una simbiosi, quella tipica di una coppia sana e sincera. Desidero anche renderLe lode e omaggio anche ricordandoLe i suoi pregi e le sue qualità. \\
+Questa simbiosi e questa esaltazione sono metaforizzati da una nuvola che si pone davanti alla Luna (essendo notte), la quale anzichè coprirla ed offuscarne la luce, la diffonde rischiarando tutto il paesaggio e scacciando l'oscurità. \\
+Così è come mi sento in sua presenza: il suo affetto scaccia ongi paura, preoccupazione e tensione. 
+\\[1pc]
+\myparagraph{Spiegazione passo passo}
+
+\poetryblock{Ti rimiro stella fredda, guida astrale, / quando volgo gli occhi al cielo}
+Come già descritto nell'introduzione alla sezione, \textit{Ringil} è lo pseudonimo che uso per parlare di Lei. Inoltre, \textit{stella fredda} allude al nome \textit{Stella Polare}. Per quanto questa allusione possa sembrare una battuta scadente, in realtà ha un significato profondo: la Stella Polare è una stella ritenuta storicamente "fissa", quindi un ottimo punto di riferimento per molti marinai, ma non solo. Lei, infatti, è un punto di riferimento per me, una guida da seguire e da cui apprendere, per cui nutro una profonda stima, fede e ammirazione (\textit{rimiro}, appunto).
+
+\poetryblock{perchè distorge vista e fato un velo}
+Alzo gli occhi al cielo nei momenti di sconforto, cercando una sorta di contatto con una qualche entità positiva in cerca di aiuto, sostegno e guida. In tali momenti io piango, con o senza lacrime. Quando però il pianto è accompagnato da un \textit{velo} di lacrime, la \textit{vista} diviene più difficoltosa, distorta, appunto. A causa dello sconforto, anche la visione del futuro, del \textit{fato}, diviene sempre più distorta e difficoltosa, fino ad essere dubbia.
+
+\poetryblock{e sogno di scostare quello nuziale.}
+Come è stato anticipato nella precedente poesia \textit{Ritratto d'un sogno} e come verrà meglio spiegato dopo, uno dei miei sogni è passare la mia vita al fianco di Lei, magari sposandola. L'immagine richiama il tradizionale velo nuziale che alcune spose mettono e viene spostato, appunto \textit{scostato}, durante la cerimonia.
+
+\poetryblock{A risaltarti i pregi e pura simbiosi anelo,}
+I due concetti presenti in questo verso sono stati in parte spiegati nell'introduzione. Desidero, \textit{anelo} appunto, passare la mia vita con Lei, dando sostegno e aiuto a vicenda, come in una simbiosi, che però è \textit{pura}, ossia non è una relazione di dipendenza, ma un guadagno reciproco, un farsi del bene a vicenda.\\
+Inoltre, vorrei lodarLa, ricordandoLe ogni suo pregio. Le persone ogni tanto necessitano che venga ricordato loro chi siano, cosa siano, l'importanza che loro hanno per gli altri e quali siano i loro lati positivi. Ciò perchè queste sincere constatazioni possono essere una buona medicina nei momenti bui e di sconforto. Talvolta ciò riflette dei problemi di autostima, problemi che sono inesistenti o quiescenti nella quotidianità ma che in momenti difficili possono affiorare. \\
+Per quanto riguarda Irene ed io, desidero starLe accanto e svolgere un ruolo benefico in molti modi, tra cui questo appena descritto: tirarLe su il morale quando è giù è una missione per me importantissima e ricordarLe il suo valore, sia "per me" che in generale, le sue qualità ed i suoi punti di forza può aiutare a risollevarla.
+
+\poetryblock{quale nembo che Luce non oscura / ma diffonde e rischiara il mondo,}
+Il significato di questi due versi è lo stesso di quello presentato nell'introduzione: vorrei essere come un \textit{nembo}, ossia una nuvola, ma particolare, che quando affianca (in questo caso si pone davanti) la Luna, non copre la luce \textit{oscurandola}, ma anzi la amplifica, diffondendola maggiormente e rischiarando il mondo circostante. L'amplificazione è un concetto molto simile a quello del verso precedente \textit{risaltarti i pregi}. \\
+La \textit{Luce} è sia quella del corpo celeste in questione, ossia la Luna in quanto la poesia è ambientata nella notte, oppure il Sole, sia quella interiore: una delle metafore fondanti del poema \textit{La Landa Oscura} è la raffigurazione delle persone buone, con animo positivo e proteso al Bene, come delle fonti di luce e calore, come delle candele. La \textit{Luce} è quindi quella interiore, già propria di Irene, che vorrei esaltare.
+
+\poetryblock{così il tuo affetto scaccia ogni paura.}
+Così come quella nuvola amplifica e diffonde la luce scacciando l'oscurità, così io vorrei scacciare i suoi dolori, preoccupazioni, paure e tensioni che purtroppo la Vita non nega, allo stesso modo di come Lei riesce a fare con me. Infatti, in sua presenza ogni mia preoccupazione, paura e problema smette di essere un tormento e Lei mi fa ri-conoscere il significato di "vivere in tranquillità, in pace".
+
+\newpage
+\subsubsection{Intimo abbraccio}
+\myparagraph{16/06/2017 - 20:43}
+Ondeggiano morbide due lingue di fuoco, \\
+avvolgendosi nel montano camino \\
+e come alghe nel flusso marino \\
+vive danzano qual amoroso gioco. \\
+Lo sguardo volgo oltre al giardino \\
+e sopra un girasole, mossi dalla brezza \\
+di primavera, due farfalle si rincorrono. \\
+Cosi sogno il ballo: trasporto e tenerezza.
+\\[1pc]
+\myparagraph{Introduzione all'ambiente e sintesi}
+
+Immagino di essere in una baita montana, davanti ad un camino le cui fiamme ondeggiano dolcemente, come alghe nelle correnti marine.
+Nel giardino due farfalle volteggiano nella danza dell'amore, in modo delicato com'è loro tipico. 
+Così immagino che sia danzare con la persona che si ama, decorato con queste emozioni.\\[1pc]
+Questa poesia è nata con un intento strano: dato che in quel periodo le poesie che stavo scrivendo erano tutte accumunate da una insita malinconia e considerando che è tendenzialmente più facile scrivere poesie riguardanti temi od emozioni negative, allora decisi in modo quasi artificioso di andare controcorrente scrivendo una poesia allegra, soave, dolce, positiva e possibilmente idilliaca. \\
+Quindi le mie energie si sono concentrate sulle emozioni positive che ho vissuto grazie ad Irene, in particolare mentre ci abbracciavamo.
+\\[1pc]
+\myparagraph{Spiegazione passo passo}
+
+La poesia è stata scritta in modo molto semplice e discorsivo, quindi ci sono pochi elementi che necessitano spiegazioni approfondite.
+Il camino acceso di una baita montana è una immagine che trasmette molta intima tenerezza, ottima culla per un amore semplice ma naturale e vero. Nel camino le fiamme ondeggiano dolcemente, avvolgendosi come nell'abbraccio che desideravo donare e ricevere a e da Lei. \\
+Il \textit{girasole} è uno dei fiori preferiti di Irene e mi trasmette l'idea di, appunto, sole, caldo, luce e vita, ossia un buon mix tra \textit{camino} e \textit{primavera}. \\
+Io detesto il vento forte, ma adoro la \textit{brezza}, che dolcemente accarezza e culla. \\
+Le \textit{farfalle} sono insetti quasi sempre associati alla tenerezza, alla delicatezza, all'amore e alla danza. nonchè alla generazione di nuova vita. Inoltre, le farfalle danzano in coppia durante il corteggiamento. \\
+Il \textit{ballo} e la danza sono due mondi abbastanza estranei a me, che però mi hanno sempre affascinato. Infatti sono per me luogo di espressione delle emozioni, come la passione amorosa.
+
+\newpage
+\subsubsection{Danza soave d'amore}
+\myparagraph{20/06/2017 - 8:30-9:10}
+Amare memorie che spezzano il fiato \\
+manda via il ballo in abbraccio silente, \\
+ove sguardo e cuore parlano, ed è in pace la mente \\
+incrociando passi, mani e strade. Un futuro \\
+roseo che sogno divenire eterno presente. \\
+Esistevo, con te vivo e affronto ogni male. \\
+Nuda l'anima, chiudo gli occhi, fluiscono \\
+emozioni, li apro .. su un umido guanciale.
+\\[1pc]
+\myparagraph{Introduzione all'ambiente e sintesi}
+
+Una dolce danza scaccia i brutti ricordi ed unisce i ballerini, intrecciando sguardi, movimenti e braccia. Questo è un futuro dolce che desidero diventare realtà, quotidianità. Prima non vivevo davvero, ma grazie a "te" sì e posso affrontare ogni problema. Si rivelano con sincerità l'anima ed i sentimenti, mentre chiudo gli occhi e le emozioni si manifestano. Riapro gli occhi sul cuscino dove dormivo, piangendo. \\[1pc]
+Risvegliato ben più presto del solito, dopo un sogno, riprendo il fresco tema del ballo: l'intimità, l'intreccio di corpi e sentimenti, gli sguardi, i movimenti armonici e la sensazione di tranquillità data dalla sparizione di pensieri negativi sono tutti elementi che un ballo è in grado di donare. Essi sono anche quegli elementi che mi mancano di Lei, così come il sognare un futuro al suo fianco. \\
+Il risveglio del sogno è però assai duro.
+\\[1pc]
+\myparagraph{Spiegazione passo passo}
+
+\poetryblock{Amare memorie che spezzano il fiato / manda via il ballo}
+Questo verso nasce da una riflessione, d'altrui origine, in cui evidenziano le differenze tra \textit{togliere il respiro} e \textit{spezzare il fiato}: il primo modo di dire è legato ad un evento positivo, in cui lo stupore causa una emozione tale da "togliere le parole"; il secondo è correlata ad un evento spiacevole, di solito una delusione, tale da lasciare esterrefatta e senza parole una persona. I ricordi \textit{amari} che causano il secondo vengono scacciati mentre si \textit{balla}.
+
+\poetryblock{il ballo in abbraccio silente, / ove sguardo e cuore parlano, ed è in pace la mente / incrociando passi, mani e strade}
+Questo lungo pezzo è la descrizione del ballo: è un insieme di movimenti, \textit{passi} e percorsi rappresentati con le \textit{strade}, svolti abbracciandosi mentre si intrecciano sia i corpi che gli sguardi e si vive la \textit{pace}, in particolare quella della \textit{mente}, ossia dei pensieri.
+L'unione che il ballo suggerisce riguarda anche le emozioni e le anime dei ballerini, metaforizzate dal \textit{cuore}, ed i destini, metaforizzati dalle \textit{strade}. \\
+Ciò non è una conseguenza logica, in quanto esistono coppie di ballerini che hanno vite ben distinte, però è quello che desidero: l'unione della mia \textit{strada} con quella di Lei, Irene, ossia vivere un \textit{futuro} assieme in senso amoroso, suggerito dal \textit{roseo}.
+
+\poetryblock{Nuda l'anima, chiudo gli occhi, fluiscono / emozioni, li apro .. su un umido guanciale.}
+Questi due versi sono interlacciati con il blocco sopra e formano successivamente un blocco a sè stante, congiunti dalla parola \textit{fluiscono}. \\
+Infatti, durante il ballo ipotetico \textit{l'anima}, intesa sia in senso stretto che come insieme di emozioni, sentimenti e desideri, si rivelano durante la danza. La chiusura degli \textit{occhi} deriva da una considerazine: spesso, nei momenti di emozioni maggiormente intense, si tende istintivamente a chiuderli, come per concentrarsi meglio su tali emozioni e sentirle più intensamente e limpidamente. Quindi, ballando le emozioni si fanno più vive e \textit{fluiscono}, trasmettendole da una persona all'altra. \\
+Il verbo \textit{fluire} è però inteso anche in un secondo modo: oltre alle emozioni, fuori escono anche le lacrime, che durante il sogno e nel successivo risveglio si riversano sul \textit{guanciale}, che diventa quindi \textit{umido}. \\
+In questo modo diventa ben chiaro il significato della parola \textit{sogno}: è un sogno sia avere un futuro con Lei, inteso come coppia, sia ballare in quel modo, con quel trasporto e quelle emozioni.
+\newpage
+\subsubsection{Preghiera alla Luna}
+\myparagraph{10/07/2017 - 0:30-3:15}
+
+1) Lo sguardo a te volto, due righe \\
+sul volto, il cuore pare fiore di loto, \\
+ma dilaniato, e la mente in moto, \\
+a te Luna pongo: "tra le spighe \\
+dei Campi Elisi farò pieno 'l vuoto \\
+trovando il santuario o 'l trono, \\
+la fonte de' felice pace e vital Senso, \\
+o ben prima de' fine dei grani di Crono?" \\
+\mbox{}
+2) A te Luna confido quel che penso \\
+e sogno: dare e avere aiuto e sostegno \\
+in amore e amici; lasciare il segno \\
+anche con la poesia. Non è un immenso \\
+postulato, tranne questo (ne son degno?), \\
+pur a costo di patire tutte le pene: \\
+rendi Felice la Vita di Ringil: \\
+non merita l'opposto chi è Bene. \\
+\\[1pc]
+\myparagraph{Introduzione all'ambiente e sintesi}
+
+Questa poesia è stata inserita tra quelle dedicate ad Irene grazie allo pseudonimo \textit{Ringil}, il Suo nome d'arte. \\
+Guardo la Luna piangendo, il cuore ed i sentimenti sembrano aperti come un fiore di loto ma frastagliati e dilaniati come i suoi petali. I pensieri non si placano e proprio alla Luna pongo una domanda: mi sentirò soddisfatto, fiero, completo e felice quando sarò tra i Campi Elisi, o prima che il mio tempo sia giunto al termine? \\
+Con te confido un mio desiderio: ricevere aiuto in amicizia ed in amore e lasciare un ricordo, una traccia del mio passaggio, anche tramite le poesie. Non è una richiesta immensa, differentemente da una terza, di cui non so se ne sono degno e che desidero realizzata anche a costi enormi: che la vita di Ringil sia felice, perchè le brave e buone persone non meritano la tristezza e di stare male. \\
+Come suggerisce la poesia stessa, l'ispirazione è stata data ammirando la Luna, in un momento in cui i pensieri malinconici hanno purtroppo preso il sopravvento per l'ennesima volta sulle emozioni positive vissute in quella serata. Il mix tra pace e felicità della serata e la malinconia onnipresente di tutto il resto ha generato una serie di considerazioni sulla mia condizione attuale (si ricorda il forte aspetto introspettivo presente in quasi tutte le mie poesie) e sui desideri che mi animano.
+\\[1pc]
+\myparagraph{Spiegazione passo passo}
+
+\poetryblock{Lo sguardo a te volto, due righe / sul volto, il cuore pare fiore di loto, / ma dilaniato, e la mente in moto}
+In questo lungo blocco si descrive lo stato d'animo provato mentre fissavo la \textit{Luna}, introdotta dalla parola \textit{te}. \textit{Due righe / sul volto} sono riferite alle lacrime che stavano cadendo in quel momento. \\
+Il \textit{fiore di loto} è di solito associato a significati positivi, come la purezza, la forza anche spirituale, l'armonia e la perfezione. Tutte ciò fornisce inizialmente una bella immagine di questo magnifico fiore, ma viene smentita nella riga dopo dal \textit{ma dilaniato,}. I petali del fiore aperto mi hanno ricordato in quel momento un oggetto morbido, come carne, frutta o un cuscino, quando viene strappato, la cui forma diviene un po' frastagliata ed irregolare. Inoltre, mi ha ricordato la testa di un utensile rotante usato per creare fori nei materiali rigidi, come legno o pietra. Queste immagini inusuali descrivono appunto lo stato inusuale in cui si trovava il mio \textit{cuore}, ossia il mio stato emotivo: squarciato da una realtà che a malincuore deve essere accettata. \\
+La \textit{mente in moto} è una metafora che indica un groviglio di pensieri e ricordi, il continuo pensare. Infatti, fintanto che ero affianco ad Irene io ero in pace, dal momento in cui torno "solo" allora la \textit{mente} ricomincia macinare pensieri senza sosta.
+
+\poetryblock{a te Luna pongo: "tra le spighe / dei Campi Elisi farò pieno 'l vuoto / trovando il santuario o 'l trono, / la fonte de' felice pace e vital Senso, / o ben prima de' fine dei grani di Crono?"}
+Questo enorme blocco è una domanda unica posta direttamente alla \textit{Luna} stessa. La sintesi è: \textit{quando mi sentirò esaudito?}. \\
+La domanda in sè è semplice, ma è resa tutt'altro che banale dai dettagli della sua formulazione. Infatti è composta da due parti: la descrizione di cosa intendo con il sentirmi esaudito e il tempo in cui si potrebbe provare tale sensazione, tempo che a sua volta è suddiviso in due momenti. \\
+Il senso di appagamento e completezza è descritta come l'unione di alcuni piccoli traguardi. \\
+Il primo, non in ordine di importanza, è il fare \textit{pieno il vuoto}: con \textit{vuoto}, se lo si interpreta come "assenza di qualcosa", si intende sia quello d'amore che quello esistenziale. Quest'ultimo è ripreso da \textit{vital Senso} ed è inteso sia come obiettivo a cui mirare sia come senso, appunto, ed utilità e valore che si ha nella vita e nei confronti della Vita stessa. Artisti di ogni forma, politici, scienziati, economisti, atleti, attori, tutti hanno lasciato un segno in qualche modo nella Storia e nelle memorie dei loro cari. Per quanto mi riguarda, spero che la mia poesia lasci un segno, colmando quindi questo \textit{vuoto}. \\
+Il \textit{santuario} è una metafora molto recente, rispetto alla data di creazione della poesia, ed a me molto cara. Con \textit{santuario} si intende un posto di pace, di tranquillità e serenità, in cui ci si purifica, si sta bene, si leniscono le ferite ed si può sognare. In sintesi, è un luogo idilliaco. Il \textit{santuario} può assumere varie forme: quella principale secondo me è l'amore, ma può essere anche un luogo fisico, come un paesaggio da ammirare e nel quale entrare in contatto con la Natura, oppure un hobby gratificante. \\
+Il \textit{trono} ha una origine un po' strana: sono stato ispirato dalla canzone "Road to the throne" del gruppo musicale "Our last night", la cui melodia mi suscita l'immagine di ascesa verso la gloria, seppur bisogna risollevarsi dalla polvere e faticare. Con \textit{trono} si intende il raggiungimento di una vetta, l'eccellenza in qualcosa e, più in generale, una grande importanza. In particolare, in merito a quest'ultima interpretazione, intendevo principalmente in ambito amoroso ma anche in altri come quelli più caratteristici di me: l'informatica e la poesia. Il suddetto \textit{trono} riguarda per lo più questi tre ambiti, ma non vengono forniti dettagli di proposito, proprio per mantenere l'aspetto generico. \\
+La \textit{fonte de' felicità} sono tutti gli elementi finora spiegati: l'amore, amici, lasciare un buon segno nei ricordi delle persone care, nrlla Storia e nell'arte, un posto idilliaco ed uno scopo nella vita. Quest'ultimo sarebbe il \textit{vital Senso}. \\
+Come già anticipato, nella poesia mi interrogo sul momento in cui troverò il tanto agognato senso di appagamento e completezza. I possibili momenti sono due: prima e dopo la morte. \\
+Il momento "dopo la morte" si riferisce al famoso "aldilà", o "Paradiso", ed è descritto da una immagine presa dal film Il Gladiatore": \textit{le spighe dei Campi Elisi}. I \textit{Campi Elisi} sono l'equivalente greco del Paradiso cristiano. \\
+Il momento "prima della morte" si spera essere \textit{ben prima}: per quanto possa valere il detto "meglio tardi che mai", dopo un certo valore di "tardi" il tutto smette di avere senso e sarebbe preferibile che tale momento avvenga il prima possibile. Il concetto della morte è descritto con l'immagine dei granelli di sabbia, ossia i \textit{grani}, di una ipotetica clessidra. Per cogliere meglio le associazioni basti riccordare nella mitologia greca \textit{Crono} è il titano del Tempo.
+
+-\textit{A te Luna confido quel che penso / e sogno:}
+Le parole vengono nuovamente rivolte alla \textit{Luna}. Quella che può sembrare una semplice ripetizione è in realtà un ricalco delle preghiere: spesso, pregando, si ripete il nome dell'entità a cui la preghiera è rivolta. I significati di tale ripetizione sono molteplici, ma in questo caso serve solo a rimarcare il destinatario della preghiera, onde evitare confusioni, e ad introdurre la stessa e la richiesta.
+
+\poetryblock{dare e avere aiuto e sostegno / in amore e amici;}
+Come già anticipato nell'introduzione, la prima delle richieste è ricevere \textit{aiuto e sostegno} in ambito amoroso ed a proposito delle amicizie. La richiesta ha una portata abbastanza ampia ma la sua "dimensione", la sua entità viene ridotta aggiungendo un po' di umiltà: non si richiede direttamente la soluzione, ossia che mi venga fatta trovare la donna della mia vita e la compagnia di amici veri, ma si richiede semplicemente dell'\textit{aiuto}. Ciò è dovuto alla presa di coscienza che non si può sperare che tutti gli sforzi vengano delegati ad entità metafisiche, quindi è mio compito compiere il grosso del lavoro ed impegnarmi per ottenere il risultato. \\
+Si mette in primo piano amore ed amicizie in quanto sono due elementi la cui assenza è sempre stata sia molto sofferta che caratteristica della gioventù. \\
+Va notato che oltre ad \textit{avere} si chiede aiuto anche nel \textit{dare}: reputo estremamente gratificante aiutare le persone a me care. Mi sento felice, esaudito, apprezzato ed utile quando sono di aiuto. Ovviamente non è solo questo aspetto meramente egoistico che mi spinge a voler aiutare gli altri, ma comunque sia desidero essere d'aiuto. Inoltre, per quanto sia bello ricevere, è anche assai bello ("bello" per dirla breve) donare e condividere. Per questi motivi chiedo \textit{aiuto} anche nel \textit{dare}.
+
+\poetryblock{lasciare il segno / anche con la poesia}
+La seconda richiesta è più generale, ma nel verso successivo viene specificata: desidero \textit{lasciare il segno}. Ci sono alcuni modi in cui ciò può essere fatto. \\
+Il primo ricalca una famosa frase che lessi anni addietro: "si ottiene l'immortalità nella memoria delle persone". In questo caso, le persone sarebbero quelle a cui voglio bene, ossia gli amici e la mia futura famiglia. \\
+Non solo nella memoria delle persone care è possibile venire ricordati, ma anche nella Storia e nell'Arte. Da piccolo sono sempre stato un "nessuno" e desidero essere un "qualcuno", ossia una persona importante, in grado di essere fonte di ispirazione, dotata di capacità e degna di ammirazione. Tutto ciò sia nel "mio piccolo", ossia a riguardo di amici e famiglia, sia nel "grande". \\
+Per quanto riguarda la Storia, si intende principalmente in ambito lavorativo, ossia nel campo dell'informatica. \\
+L'Arte è invece qualcosa di più incerto: l'unica arte in cui riesco un po' a distinguermi è la poesia, ma sinceramente non credo di essere paragonabile ai grandi poeti e letterati, come per esempio Petrarca e Pascoli e ancor meno Dante Alighieri e Leopardi, per i quali nutro grande ammirazione. Infatti, la tecnica presentata nelle poesie della "prima maturità" non è ricercata nè eccelsa, nel mio modesto parere. Comunque sia, ben cosciente dei miei limiti non esprimo il desiderio di essere ricordato come "poeta amatoriale" come un "obiettivo da raggiungere" ma bensì come un \textit{sogno}: la poesia è per me uno sfogo, un hobby, un modo alternativo per esprimere i miei sentimenti ed i miei pensieri, non una sorta di lavoro in cui si è quasi obbligati a dare il massimo. Com'è ragionevole che sia, l'impegno nella scrittura delle poesie c'è, ma mancano le rielaborazioni e rifiniture che i più grandi poeti solitamente hanno compiuto.
+
+\poetryblock{Non è un immenso / postulato,}
+La modestia viene forse meno in questo piccolo blocco, in cui si riconosce la dimensione delle due prime richieste: per quanto non siano nè piccole nè banali, le ritengo un qualcosa che \textit{non è immenso} in quanto si chiede solo \textit{aiuto e sostegno}. Entità, modalità e dimensione degli aiuti non sono "imposti" da me, ma la scelta è libera.
+
+\poetryblock{tranne questo (ne son degno?), / pur a costo di patire tutte le pene:}
+La terza e ultima richiesta, specificata nei versi finali della poesia, è invece più "grande". Infatti mi chiedo, palesemente e sinceramente, se \textit{ne son degno}: ero e sono tutt'ora ben conscio dei miei errori e dei miei difetti, quindi sorge il dubbio della legittimità della richiesta, ossia se merito non solo che essa venga esaudita ma che io abbia il diritto stesso di formularla. \\
+La risposta a questa domanda non è fornita, differentemente da una clausola: sono disposto, definito da \textit{pur}, \textit{a patire tutte le pene}. Ossia, sono disposto a pagare anche molto caro affinchè si possa esaudire la terza richiesta. Tale prezzo potrebbe anche consistere, secondo l'intento originario, nel rinunciare alle prime due richieste e alla personale felicità stessa, oltre a tante altre cose. Considerando che di solito la gente comune, me incluso, dedica la propria vita alla ricerca della felicità, allora rinunciare ad essa è un prezzo assai alto.
+
+\poetryblock{rendi Felice la Vita di Ringil:}
+La terza richiesta è composta da due piccole parti ed entrambe riguardano \textit{Ringil}, ossia Irene stessa. \\
+La prima parte, che è la più nascosta delle due, consiste nel donarLe la \textit{Vita}. Non nel senso di farla resuscitare, ma nel senso di farla "vivere", il che ha un significato sottilmente diverso da "esistere". La seconda parte è rendere tale \textit{Vita} \textit{Felice}. Tale seconda parte è abbastanza autoesplicativa, ma ulteriori dettagli possono essera acquisiti riconsiderando quanto scritto finora, nella descrizione di questa poesia. 
+
+\poetryblock{non merita l'opposto chi è Bene.}
+L'ultimo verso ricopre più funzioni. Esso sia svolge il ruolo di fare un complimento nei confronti di Irene, sia motiva ulteriormente la terza richiesta. \\
+Si sentono sempre più spesso alcune lamentele, nei momenti più bui, circa l'ingiustizia della Vita a proposito dell'ammontare di sofferenza che anche le persone "buone" patiscono. Questo verso esprime questo concetto: Irene è per me una persona "d'oro", una sorta di incarnazione del \textit{Bene}, quindi lei \textit{non merita l'opposto} secondo il mio parere. \\
+Con \textit{opposto} si possono indentere diversi significati.
+Il primo richiama un concetto molto "vicino" in quanto è contenuto nello stesso verso ed è quello più letterale: \textit{l'opposto} di \textit{Bene} è il "Male", inteso sia in senso generico sia come sofferenza, disperazione, smarrimento, eccetera.
+Gli altri significati richiamano concetti espressi più indietro nella poesia. \\
+Il secondo è il contrario della "Felicità", ossia la tristezza e quanto enumerato due frasi prima. \\
+Il terzo concetto è il non raggiungimento di tutto ciò che ho descritto nell'analisi di questa poesia: esaudimento dei propri sogni, amore, amicizia, aiuto reciproco, acquisizione, sviluppo, manifestazione e successivo riconoscimento di proprie abilità e capacità, scoperta del \textit{santuario}, eccetera. Lei merita quanto appena elencato, anche di più, e desidero appunto che lei ottenga tutto ciò. \\
+Infine, con \textit{opposto} si intendono anche quegli stati d'animo negativi causati dal fallimento nel raggiungere ed esaudire i propri sogni, come quelli appena descritti. \\
+Probabilmente esistono ulteriori validi significati di \textit{opposto}, ma non sono stati espressi per ovvi motivi, tra cui la volontà di non generare una enumerazione potenzialmente intuibile e ridondante. 
+\newpage
+
+
+
+\subsubsection{Perla tra i cocci}
+\myparagraph{17/07/2017 - 2:00/4:38}
+
+1) Ero una statua di verde rame \\
+e tu, tra le altre bozze di terra, \\
+hai scorto me e le cicatrici di guerra. \\
+Sin dal principio abbiamo lenito le lame, \\
+ad ogni abbraccio non il solo petto \\
+era più vicino, ad ogni confidenza \\
+il legame era più forte, profondo e stretto \\
+\mbox{}
+2) e fu chiaro che la sua aurea essenza \\
+era ciò che sognavo sin da infante. \\
+Fummo spalla, diario ed amante, \\
+e mai nulla avrà la tua importanza, \\
+tu unica candela, saggia guida \\
+che sa donare speranza e calore, \\
+che non arretra ad ogni sfida \\
+\mbox{}
+3) e del tramonto e alba l'aura ha 'l colore. \\
+Fummo uniti, ma avvenne un distacco: \\
+arto e bussola persi, in scacco \\
+lo spirito che zampilla di dolore. \\
+Nemmeno il sangue di Bacco \\
+placa il vortice della mente. \\
+Ricorda: "vivi ogni giorno quale ultimo \\
+e trova Luce in tutto, o vivrai per niente".
+\\[1pc]
+\myparagraph{Introduzione all'ambiente e sintesi}
+La poesia è nata una notte in un momento di riflessione molto profonda. Purtroppo non ricordo con esattezza se quella sera Irene ed io avessimo passato del tempo assieme, ma considerando l'orario di inizio della creazione della poesia, ossia le 2:00 di notte esatte, e quanto riportato verso la fine dell'introduzione della sezione "Poesie dedicate ad Irene Negri", allora è quasi certo che in quella sera Lei ed io avessimo trascorso del tempo assieme. Di sicuro c'è la nostalgia di quello vissuto mesi addietro e la presenza ossessiva di un pensiero assai ricorrente: un errore. \\
+In questa poesia sono descritti, a grandi linee ed in modo incompleto, tre argomenti principali e, al termine, una piccola perla di saggezza.
+Il primo argomento riguarda il momento in cui Irene ed io ci siamo conosciuti. \\
+Il secondo tratta della nascita del legame e si descrive sia quest'ultimo sia Irene stessa. \\
+Infine, si accenna implicitamente al mio sbaglio e alle conseguenze dovute da tale danno. 
+\\[1pc]
+\myparagraph{Spiegazione passo passo}
+
+
+\poetryblock{tra le altre bozze di terra,}
+Con questa espressione mi riferisco alle altre donne, definendole come mere \textit{bozze}, ossia come qualcosa di incompleto, povero nei dettagli, impuro, imperfetto, lungi dall'essere un'opera d'arte. Quello che può facilmente essere confuso come un'offesa nei confronti degli altri componenti del genere femminile, è in realtà una esaltazione, una lode nei confronti di Irene attuata tramite un paragone: Lei per me è un'opera d'arte vivente, un capolavoro unico ed inimitabile, finito, perfetto e non una \textit{bozza}. La perfezione è intesa anche nel carattere, nel modo di pensare e nell'etica: Lei è giusta e cerca di agire sempre per il meglio. \\
+Lei è inoltre puro, più pura della \textit{terra}, riportata anche per ricordare le sue umili origini: Lei è e rimane comunque un'umana. Ciò è suggerito anche dall'espressione \textit{tra le altre}, ad indicare che appunto Lei non risiede in un posto strano o in una dimensione parallela, ma è una umana come tutte. \\
+Tutti questi concetti sono già stati espressi in altre poesie e verranno rimarcate in altre, a evidenziare la fermezza e la costanza con cui li sostengo. \\
+
+
+\textit{lame}: probabilmente è una sineddoche, in quanto non si riferisce a delle armi da taglio o affini, bensì ad una delle conseguenze del loro errato utilizzo: i tagli, le ferite. Tali ferite sono emotive, non somatiche, sono dei traumi, delle delusioni, sofferenze psicologiche di ogni sorta.\\
+
+
+
+\textit{chiaro}: inteso come "palese" ma preferito in quanto collegato all'\textit{aurea essenza}, che è appunto luminosa, pura, \textit{chiara}.\\
+
+\textit{candela}: riferimento alla "Landa Oscura". \\
+
+
+\textit{petto}: sineddoche inversa: "il tutto per una parte", in questo caso ci si riferisce al "cuore", inteso come unione di sentimenti anche amorosi e di anime. il \textit{petto} è anche un riferimento ai corpi, tramite una sineddoche, durante l'atto dell'\textit{abbraccio}. \\
+
+\poetryblock{Ricorda: "vivi ogni giorno quale ultimo}
+Questo piccolo blocco è una diretta citazione della canzone "Crash" del gruppo musicale "Sum 41" ed è uno dei momenti più toccanti di essa, secondo me. La traduzione in italiano è, più o meno: "ricorda di vivere ogni giorno come se fosse l'ultimo". Non ho potuto citare il testo per intero per questioni di spazio, nè ho voluto farlo per questioni di Copyright. \\
+Seppur riadattandolo lievemente il senso rimane lo stesso: per \textit{vivere} bisogna spronare le emozioni, lasciarsi andare, organizzare eventi, fare, anche compiendo assurdità o qualcosa di fuori dal comune, proprio come se ogni giorno fosse l'ultimo giorno di vita e quindi l'ultima opportunità per compiere tutto ciò, \textit{vivendo}, appunto, senza lasciare che il tempo ci scorra addosso e senza aspettare che il giorno giusto, o semplicemente uno futuro, arrivi e basta, sprecando tutti quelli nel mezzo nel banale, noioso e ozioso attendere. Questo concetto ricalca la sottile differenza tra \textit{vivere} ed \textit{esistere} già trattato in alcune poesie e ripreso nuovamente, più e più volte. \\
+Leggendo il testo di quella canzone si scorge un altro indizio sul perchè io sia molto legato sia ad essa che a questo verso: in modo del tutto inconsio sì è rivelata una premonizione, ossia momenti come quelli che avevo vissuto fino a quella data non li avrei più vissuti e sarebbero stati, quindi, gli ultimi, meritevoli di essere vissuti appieno. (Ciò è vero per lo meno fino alla data 11 gennaio 2018, giorno in cui fu scritta la spiegazione di questo verso.) \\
+
+
+\textit{niente}: può essere interpretato in molti modi, considerando due parole il cui significato è assai vicino: \textit{nulla} e \textit{vuoto}. \\
+Questo \textit{niente} può essere inteso in un senso molto crudo: "vivrai senza alcun motivo, ragione ed obiettivo, nè profitto, la tua esistenza sarà sprecata ed inutile e la si sarebbe potuta risparmiare". Un altro senso riguarda il sinonimo, per così dire, \textit{nulla}: "vivrai seguendo e servendo il nulla, qualcosa privo di valore e/o utilità, che verrà ignorato e dimenticato, vanificando l'esistenza ed ogni sforzo". \\
+Queste amare parole suonano come un forte monito per il lettore: \textit{vivi ogni giorno quale ultimo} dovrebbe ispirare a compiere azioni che facciano provare emozioni attirando il lettore proprio tramite la "ricompensa" di tali emozioni, però uno spronamento analogo può essere ottenuto tramite la paura delle conseguenze negative dell'ozio: lo sprecare opportunità ed attimi di vita ricchi di emozioni, perdite, il \textit{niente}, inteso sia in senso stretto che come \textit{vuoto}.
+
+\newpage
+
+
+\subsubsection{Emozioni, il fragile esponi}
+\myparagraph{01/08/2017 - 3:22}
+
+1) I sentimenti sono una lama a doppio taglio: \\
+permettono di regalare la felicità \\
+a chi di vivi ancor ne ha, \\
+ma ti sentirai polvere ad ogni sbaglio. \\
+Ne guadagni, a esser macchina, in semplicità: \\
+meno hai, meno può subire attacco, \\
+ma se sei vuoto, nulla hai in dono. \\
+Per curarla, accetto il rischio d'uno scacco.
+
+
+\\[1pc]
+\myparagraph{Introduzione all'ambiente e sintesi}
+
+In quel periodo la Signorina ed io ci frequentavamo ancora, ma le speranze di un futuro rosa ormai vacillavano. Colto da pensieri malinconici in un momento di fragilità, ho iniziato ad interrogarmi se fosse una valida scelta il costruirsi un guscio di fredda apatcità, privandosi di ogni emozione al fine di estirpare ogni forma di tristezza. L'esito di quei ragionamenti sono stati tradotti in questa poesia.
+
+\\[1pc]
+\myparagraph{Spiegazione passo passo}
+
+
+\poetryblock{I sentimenti sono una lama a doppio taglio:}
+La poesia si apre con una considerazione sui \textit{sentimenti}, sintetizzando una amara realtà: come si legge nei versi successivi, sono contemporaneamente qualcosa sia di positivo sia di negativo. Non sono infatti nè qualcosa di sublime, nè qualcosa di marcio come dei parassiti. Sono una \textit{lama a doppio taglio}. \\
+
+\poetryblock{permettono di regalare la felicità / a chi di vivi ancor ne ha}
+In questi due versi si descrive un aspetto positivo dell'avere sentimenti, ma ad una condizione: \textit{a chi di vivi ancor ne ha}. Infatti, chi ha sentimenti può gioire di ciò che vive, delle piccole cose e giocare e scherzare, generando e trasmettendo emozioni positive agli altri. Questi ultimi, però, non possono captarle se sono freddi, spenti ed apatici.
+Va notato un verbo: \textit{regalare}. Al suo posto si sarebbe potuto usare \textit{donare}, che è una parola più corta di una sillaba e dal significato simile, se non identico. Qualunque delle due parole si scelga, è importante il concetto che esprimono: il regalo. Ossia, la cessione di un bene o servizio senza alcun compenso atteso. Regalo come condivisione e presa in cura della persona ricevente, come simbolo passione ed affetto, come dimostrazione di importanza che il ricevente ha per il donatore. Tutto ciò senza richiedere o attendere in cambio qualcos'altro, se non un ringraziamento in segno di cortesia ed educazione. In questa descriione c'è una voluta sfumatura d'amore perchè è questo il sentimento che ha ispirato e guidato la stesura della poesia, nonchè la genesi dei ragionamenti alla sua base.
+
+\poetryblock{ma ti sentirai polvere ad ogni sbaglio.}
+Il costo di avere dei sentimenti e di provarli è la sensibilità: non si può essere indifferenti agli \textit{sbagli}, agli errori e ai dolori dovuti alle loro conseguenze. L'insensibilità, molto affine all'indifferenza, permetterebbe di non soffrire, ma come viene illustrato nei versi successivi e dai due precedenti, non è una opzione priva di effetti collaterali e di perdite. Lo \textit{sbaglio} può essere sia quello commesso dalle altre persone che da sé stesso. In entrambi i casi si soffre e nel primo il sentirsi \textit{polvere} è esagerato, però nel secondo è ben più idoneo: essere l'artefice diretto dei problemi crea sensi di colpa molto grossi, il peso delle proprie azioni e dei danni causati, soprattutto se irreparabili, è fonte di tormento, tanto da \textit{polverizzare} l'animo. Con \textit{sbaglio} ci si riferisce ad uno dei temi ricorrenti delle poesie del 2017 e della prima metà di 2018, seppur non sia raro trovare riferimenti anche in altre poesie successive.
+
+\poetryblock{Ne guadagni, a esser macchina, in semplicità:}
+Le emozioni sono una delle componenti che costituiscono l'\textit{umanità}, ossia che rendono una persona un \textit{umano}. Privando un essere umano dei sentimenti, esso diventerebbe un essere più semplice, ma anche una \textit{macchina}: un mero organismo che agisce e reagisce tramite, o a causa, di istinti e mere reazioni chimiche, come un meccanismo od un orologio, senza alcuna guida più trascendente come l'anima.
+La parola \textit{guadagni} è usata in modo sarcastico ed è riferita al verso successivo, per cui se ne posticipa la spiegazione.
+
+\poetryblock{meno hai, meno può subire attacco,}
+La privazione dei sentimenti, sia quelli \textit{positivi} come amore e felicità sia quelli \textit{negativi} come tristezza e rabbia, parrebbe fornire alcuni \textit{guadagni}. Infatti, ci sarebbero meno modi di danneggiare tale tipo di persona: un ipotetico nemico, soprattutto nel caso di litigi, non potrebbe far leva sui sentimenti, nè si soffrirebbe nel caso di eventi negativi, tra cui \textit{sentirsi polvere ad ogni sbaglio}. In sintesi, tutto fluirebbe via e verrebbe scrollato di dosso nell'insensibilità. Dopotutto, non si può perdere una ipotetica battaglia se non si ha modo di \textit{subire attacco}. Con \textit{attacco} si intendono molte sfaccettature: sia le varie azioni che possono essere compiute durante i litigi, come il rinfacciare parole ed atti, sia le varie forme di sofferenza vissute durante le situazioni negative, quali frustrazione, tristezza, rabbia, rancore e smarrimento. \\
+Questo stato, ossia l'assenza di emozioni, sembrerebbe un buon sistema di difesa, ma presenta un ulteriore lato negativo, sottilmente nascosto da \textit{meno hai}. Una persona è ritenibile interessante se ha qualcosa da offrire, se ci sono delle particolarità che la differenziano, la caratterizzano e la definiscono, come abilità fisiche, intellettuali e caratteriali. Ciò è riscontrabile sia in ambito amoroso, sia sociale in senso più generale, sia lavorativo, ma anche in altri ambiti. Una persona che non ha nulla se non la sua componente organica è vuota e considerabile inutile, seppur possa essere utilizzata come fantoccio d'allenamento nei dojo oppure nei crash-test. Battute sarcastice di dubbio gusto a parte, la privazione dei sentimenti contribuisce a nullificare tanto la persona quanto il suo valore, come già introdotto dal secondo verso e riconfermato nel settimo, ossia quello immediatamente successivo a questo.
+
+\poetryblock{ma se sei vuoto, nulla hai in dono.}
+Con questo verso si conclude la spiegazione del \textit{doppio taglio}. Riferendosi ai versi precedenti, in particolare quello immediatamente antecedente, l'assenza di emozioni lascia un \textit{vuoto} e senza di esse non è possibile \textit{regalare la felicità} del secondo verso, dato che \textit{nulla} si ha \textit{in dono}.
+
+\poetryblock{Per curarla, accetto il rischio d'uno scacco.}
+Ecco che ritorna il \textit{leitmotiv} dello \textit{sbaglio}: l'errore commesso ha danneggiato una donna, suggerito dalla coniugazione di \textit{curarla}, ed è mia intenzione prestarle cure. Non si specifica in questa poesia chi sia l'artefice. \\
+Essendo i sentimenti una \textit{lama a doppio taglio}, continuare a mantenerli, nutrirli, crescerli, esporli e farne uso costutuisce un \textit{rischio}. Si rischia infatti di essere ferito, di avere rimorsi, di soffrire in generale, \textit{d'uno scacco}. Con \textit{scacco} si intendono molti significati, tra cui traumi, blocchi emotivi, perdere o spegnere temporaneamente la ragione o tormenti di ogni sorta, tra cui rimorsi, sensi di colpa e la disperazione sia di aver sbagliato e/o fatto dei danni sia di non poter riparare questi ultimi, tornando indietro alla situazione precedente, rimanendo quindi bloccato nei ricordi di un \textit{passato che non c'è più}.
+
+\textit{}
+\newpage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Questa poesia è nata poco dopo la festa di Ferragosto in un momento di forte nostalgia. 
+
+
+
+
+ULTIME POESIE .. TO DO
+
+\newpage
+\subsubsection{Carezza serena}
+\myparagraph{24/12/2017 - 03:36}
+Cogli l' "aiuto" d'un ferito usignolo: \\
+da madre lo coccoli con le dita, \\
+un caldo soffio e riluce la vita. \\
+Zampetta felice e canta nel volo \\
+un grazie per la lesione guarita. \\
+Driade infusa dell'essenza di Maggio, \\
+ravvivi il colore de' piccole cose \\
+quale fonte di pace e di puro raggio.
+\\[1pc]
+\myparagraph{Introduzione all'ambiente e sintesi}
+\\[1pc]
+\myparagraph{Spiegazione passo passo}
+
+
+
+\newpage
+\subsubsection{Foto ricordo}
+\myparagraph{03/01/2018 - sera}
+ \\
+Emozioni nelle foto immortalate: \\
+ricordi di giorni in cui la tristezza \\
+è stata scacciata da una carezza, \\
+da viaggi, cene, balli o da sincere risate \\
+e ogni problema s'è dissolto nella brezza. \\
+Assorto nel passato l'occhio si fa umido \\
+su quel Lume con cui vissi la felicità \\
+ed un sorriso spunta timido.
+\\[1pc]
+\myparagraph{Introduzione all'ambiente e sintesi}
+
+La poesia è stata ispirata sia ad una canzone di Tiziano Ferro, dal titolo a me sconosciuto, che parlava di fotografie sia dalla famosa canzone "Fotoricordo" del gruppo "Gemelli Diversi".
+\\[1pc]
+\myparagraph{Spiegazione passo passo}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\newpage
+\subsection{Altre Riflessioni}
+
+TODO intro ad altre riflessioni
+
+\newpage
+\subsubsection{Al servizio}
+\myparagraph{30/12/2017 - 21:13}
+Affettati, pasta, verdure e sgombro \\
+posti con fassone e formaggi. Paste, \\
+creme e torte deliziano le caste. \\
+Tutto portato dal cameriere ingombro \\
+di fame: visse con la più pura de' dinaste, \\
+ma poi che gli idilli fece guasti, \\
+per riscatto e rimanerle affianco, \\
+prepara, serve e solo ammira i pasti.
+\\[1pc]
+\myparagraph{Introduzione all'ambiente e sintesi}
+
+Un cameriere serve pasti sontuosi ad dei nobili. Egli svolge quel lavoro per ripagare un danno commesso e per restare accanto ad una damigella, seppur non possa prendere parte alla gioia delle cene, ma solo ammirarla.
+\\[1pc]
+\myparagraph{Spiegazione passo passo}
+
+Questa poesia è composta due macro-sezioni: la presentazione della sontuosità del \textit{pasto} preparato e la trattazione del \textit{cameriere}. Analogamente, due sono i tempi riportati: il passato ed il presente. La spiegazione dettagliata di questa poesia non conviene, come è già avvenuto per altre poesie, che avvenga per blocchi sequenziali di uno o più versi in quanto, appunto, tempi e concetti diversi sono interlacciati. \\
+La presentazione delle pietanze non hanno un effettivo ruolo, se non quello di intrattenere e, appunto, mostrare la sontuosità delle portate. L'unico ruolo che può essere attribuito è quello di dare un significato ulteriore a \textit{fame}, che è quello più intuibile. Il secondo verrà spiegato più tardi. \\
+Il passato, realizzato tramite la coniugazione dei verbi al passato remoto, consiste in una sbirciata nella vita del cameriere. Egli ha vissuto una parte della sua vita, non meglio specificata, con le \textit{dinaste} fin quando commise uno sbaglio che ruppe la soave atmosfera ed iniziò a lavorare al loro servizio per riparare i danni. \\
+Non ho specificato volutamente quale fosse l'origine del cameriere, il momento in cui lo sbaglio avvenne nè in cosa consiste lo sbaglio. \\
+Non è definito se tale persona fosse nata da una famiglia nobile, se avesse sposato una nobile o fosse semplicemente fidanzato con una di esse, nemmeno se fosse un suo amico o parente. Si sa solo che lui visse con lei. \\
+Secondo il dizionario Treccani, "dinasta" significa "Principe, sovrano", quindi le \textit{dinaste} sarebbero le "principesse". Il cameriere, che non si sa bene se lo si può definire "fortunato" o "sciagurato" a ragion veduta, ha avuto l'onore di vivere con \textit{la più pura} di esse. L'aggettivo \textit{pura} può assumere varie sfaccettature, dall'innocenza, alla verginità fino alla nobiltà d'animo. In questo caso significa proprio nobiltà d'animo, forte e sana etica e saggezza, ma significa anche dolcezza e amorevolezza. \\
+Il momento in cui avvenne lo sbaglio è il passato e null'altro è specificato se non che ebbe conseguenze pesanti, rompendo l'atmosfera tranquilla e spensierata. \\
+Alcuni dettagli però sono celati nelle parole. \textit{Riscatto} suggerisce, appunto, la gravità dello sbaglio: una semplice bazzecola non richiederebbe addirittura un \textit{riscatto}, considerando che di solito si riscattano onore o fiducia.
+Due messaggi diversi nasconde la coppia di parole \textit{rimanerle affianco}. In primo luogo, è evidente l'affetto del cameriere nel confronte della \textit{dinasta}, che è tale renderlo disposto a \textit{servire} pur di allontanarsi da lei ed è rimarcato dalla parola \textit{affianco}, come per darle sostegno e supporto. In seconda istanza, proprio \textit{rimanerle} suggerisce la volontà della "permanenza". Da ciò si deduce che una delle possibili punizioni che il suddetto cameriere avrebbe potuto subire è l'allontanamento dalla \textit{casta}, come un esilio, un licenziamento o il divieto di avvicinarsi ad almeno una di quelle persone.\\
+La condizione in cui si trova il cameriere è molto triste.
+Innanzitutto egli è \textit{ingombro / di fame}. Con \textit{ingombro} si vuole descrivere il fastidio e il disagio che la sua condizione gli causa. Una persona ingombra ha difficoltà a svolgere le sue mansioni, come trasportare oggetti ingombranti quali grossi mobili. Esempio a parte, \textit{ingombro} può essere interpretato non solo da un punto di vista concreto e fisico: il cameriere è anche \textit{ingombro} nella mente, sia a causa della \textit{fame} che della sua condizione di esistenza. Gli è quindi scomodo essere tranquillo, in pace.
+Ma \textit{ingombro} dà un indizio sul suo sbaglio: una cosa ingombrante è un qualcosa avente dimensioni che, in qualche modo, "strabordano", eccedono. Essendo legato alla parola \textit{fame}, si potrebbe intuire che lo sbaglio fosse correlato ad una qualche forma di appetito, magari un qualcosa di legato all'istinto, come suggerisce la scelta della parola \textit{fame} rispetto ad altre avente significato affine, come appunto "appetito". \\
+Inoltre, egli \textit{prepara} e \textit{serve} tante deliziose pietanze, come descritto nell'ottavo verso, però non può godere del frutto del suo lavoro e di tali prelibatezze perchè lui \textit{solo ammira}.
+\textit{Solo} è una parola ambigua. Evidenzia la limitazione dell'espressione della libertà individuale in quanto il cameriere non prende parte ai \textit{pasti}, volontariamente o perchè non gli è permesso, ma solamente \textit{ammirarli}. Ciò può essere collegato allo sbaglio da lui commesso, magari perchè lui ha limitato la volontà altrui oppure ha manifestato la sua in modo eccessvo. Inoltre, \textit{solo} può indicare lo stato di solitudine che il cameriere prova nel non prendere parte ai \textit{pasti}, gioendo e godendo delle pietanze come e con i commensali. \\
+\textit{Ammira} riflette proprio quest'ultimo punto: l'ipotetica qualità delle pietanze, che ha senso d'essere elevata grazie al ceto sociale dei commensali suggerito da \textit{caste} e \textit{dinaste}, suscita ammirazione nel cameriere, come se fosse solo un sogno per lui, oppure un lontano ricordo, qualora si interpretasse \textit{ammira} considerando il suo sbaglio e la sua attuale condizione. \\
+Quindi, il cameriere si ritrova a servire \textit{pasti} il cui probabile profumo accentua la sua \textit{fame} ma senza prenderne parte, poichè \textit{solo} li \textit{ammira}. \\
+Questa sofferente immagine può rispecchiarne una apparentemente sconnessa, ma che trova fondamento nella sfumatura della parola \textit{visse} donata dalla coniugazione al femminile di \textit{dinaste}. Tale seconda immagine riguarda l'amore: una persona che in un rapporto di amicizia aiuta e \textit{serve} una seconda, che è fidanza con una terza, soffre come un po' quel cameriere in quanto ha continuamente sotto il naso ciò che desidera (indicato dalla \textit{fame}) ma può gioirne solo da distante, \textit{ammirando} il frutto del suo lavoro e l'effetto positivo che ha su quell'altra persona, senza però prenderne direttamente parte, rimanendo in disparte in qualche modo pur essendole comunque \textit{affianco} tramite l'aiuto offerto da questa prima persona.
+
+
+
+\newpage
+\subsection{Poema della Landa Oscura}
+
+%intro .. DA RIADATTARE AD UN LINGUAGGIO PIU CONSONO
+Invece la "landa" esiste come termine italiano e designa un territorio arido, poco fertile, drenante, con vegetazione ad arbusti bassi e le lande europee (come si legge da Wikipedia) hanno un aspetto desolato e povero.
+Quindi oltre ad aver usato un termine "valido" in quanto esistente nel dizionario, "landa" descrive una tipo di terreno/habitat che tutto sommato ci sta abbastanza bene con l'intero poema
+
+
+\newpage
+\section{Poesie dei "primi passi"}
+\newpage
+
+
+TEMPLATE POESIA
+
+\newpage
+\subsubsection{titolo}
+\myparagraph{data ora}
+\\[1pc]
+\myparagraph{Introduzione all'ambiente e sintesi}
+BLA BLA
+\textit{}
+\\[1pc]
+\myparagraph{Spiegazione passo passo}
+\newpage
+
+
+
+\section{Epilogo}
+
+
+\end{document}

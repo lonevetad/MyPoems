@@ -1,0 +1,152 @@
+Rete neurale: 20/10/2018 - 23/02/2019
+
+1) In principio era un neurone detto <<percettrone>>,
+- risolve il problema di classificazione
+- con la divisione dello spazio ma v'è un dazio, una prigione:
+- se la natura è più complessa non trova soluzione.
+
+2) Se più d'una dimensione si pone, si confonde,
+- può compiere una scelta sola d'altronde,
+- percorre solo rette, non cavalca le onde,
+- manco con l'allenamento vira verso vie tonde;
+
+3) Fa professore l'errore per migliore precisione
+- reclutare una rete per redigere un'unione,
+- calcola la deviazione e ne fa condivisione
+- e apporta la correzione per una nuova direzione.
+
+4) In fila messi e ben connessi anche tra più livelli
+- risolvon molti crivelli questi semplici cervelli
+- addestrati in vari modi, han grandi lodi e son belli.
+- Il flusso d'info è a cascata, aggiungiamo degli anelli?
+
+RIT
+
+5) "Hey, aspetta! Di gloria non avere fretta!
+- nel tuo piano sai tracciare solo qualche retta
+- rimappi i dati dopo che li tagli in qualche fetta
+- in nuovi spazi reinterpretandoli fin'alla divisione netta .
+
+6) Fai incetta di funzioni via via meno banali
+- ma servono eserciti di divisioni binomiali
+- per circoscrivere aree: t'evolvi in reti radiali
+- con concetto di distanza per stime locali.
+
+7) Io della storia tengo traccia per la risposta pertinente,
+- a voi importa l'impulso, vivete solo nel presente,
+- memorie antiche o fresche scorrono come corrente.
+- è questo ciò che sono: la rete ricorrente.
+
+8) Traggo saggio vantaggio dal vecchio retaggio:
+- del passato m'aggiorno con tutto o nullo assaggio.
+- Regredisco funzioni, ma solo di passaggio
+- per il viaggio d'idee e concetti concentrati in un messaggio.
+
+
+
+morale di vita, verso la fine:
+per poter cambiare i risultati della tua vita, devi cambiare i tuoi pesi, talvolta modificare la tua forma è ciò che ti compone, ciò che sei, ma soprattutto il come valuti la vita e tutte le altre cose
+
+
+OLD
+
+1 ..
+- ha bisogno d'una squadra per regioni aperte o tonde
+
+6 ...
+- con concetto di distanza per approssimazioni locali.
+
+8
+- nasce l'ortaggio dove terminò il viaggio
+- del seme nello scorso maggio
+
+
+
+
+
+______________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
+
+
+
+
+
+
+Ho un grande progetto: scrivere poi una grande poesia/canzone sul machine Learning
+
+
+.. sulle SVM
+
+- nel fare scelte, il percorso è storto,
+- ai cari provavo a dare e avere supporto
+- ma chi m'era lontano aveva 'l fiato corto
+- non è facile star affianco a chi ha 'l fato contorto
+
+-) anzi a lasciarli, pesanti, ho avuto fiuto
+- mi davano del pazzo e nessun contributo
+- ma quale aiuto, sei discriminato, un rifiuto.
+- Ho imparato a farmi strada, ma con tributo.
+
+-) Ed è allora che capisci chi è importante
+- con chi hai "ottime" intese, non conta "quante",
+- capire ed affacciarsi al "mondo" e a quello "sottostante",
+- con chi puoi classificare Bene e Male, come Dante,
+
+-) con chi trovi una nuova prospettiva,
+- chi d'empatia, saggezza o vista è priva,
+- con chi assembli pezzi, verso porti e non la deriva,
+- e chi non brilla e copia gli altri, come scriba,
+
+-) con chi puoi aver confronti di certa classe
+- con chi ha proprietà salienti, non come masse
+- con chi a fatiche fate sconti, ma impegno a casse,
+- con chi sogni e progetti piani, anime non lasse.
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+-) altre cose:
+
+
+"non riesco a farmi strada, ho bisogno di supporto"
+
+loss del vicino è sempre la migliore, etc
+
+no, non so prendere una decisione ... cado dall'albero, prima che me lo taglino
+
+Fai poco la Random Forest eh
+
+uniamoci in un solo cluster, tutti vicini vicini
+
+"non sei tu che non vai bene, sono io che non convergo"
+
+\
+- Nel mezzo del cammin della sessione
+- mi ritrovai in una selva randomica
+- e ne tagliai un ramo per farmi un bastone
+
+"non sono io, sei tu che non vai bene: ti devo correggere, ti devo regredire"
+(devo regredire e non allo stato brado)
+
+"non muovi un dito: sei così pigro, così LASSO"

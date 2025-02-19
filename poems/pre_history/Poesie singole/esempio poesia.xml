@@ -1,0 +1,52 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<!-- 
+	encoders; {
+		"'" : "&#39;",
+		"\n": "&#xA;"
+	}
+-->
+<WrittenWork IsPoetry="true" Title="test &#34; title &#39; with: stuffs - ahÈah">
+	<DateCreation>
+		<DatePeriod>21/10/2018</DatePeriod>
+		<Time>00:03</Time>
+	</DateCreation>
+	<Content>
+		<Stanza>1) the first verse&#39;s first&#39;s stanza&#xA;- second verse&#xA;</Stanza>
+		<Stanza>2) another stanza&#xA;- with another verse&#xA;</Stanza>
+		<Stanza>3) o: ò&#xA;- a: à&#xA;- e acute: è&#xA;- e grave: é&#xA;- u: ù&#xA;- i: ì&#xA;</Stanza>
+	</Content>
+	<Details>
+		<SingleDetailSpecs>
+			<SingleDetailSpecs>
+				<Stanza>1</Stanza>
+				<Verse>1</Verse>
+				<Specification>stanza: means &#34;strofa&#34; in italian</Specification>
+			</SingleDetailSpecs>
+		</SingleDetailSpecs>
+		<SingleDetailSpecs>
+			<SingleDetailSpecs>
+				<Stanza>1</Stanza>
+				<Verse>2</Verse>
+				<Specification>verse: means &#34;verso&#34; in italian</Specification>
+			</SingleDetailSpecs>
+		</SingleDetailSpecs>
+		<SingleDetailSpecs>
+			<SingleDetailSpecs>
+				<Stanza>2</Stanza>
+				<Verse>1</Verse>
+				<Specification>: testing the presentation</Specification>
+			</SingleDetailSpecs>
+		</SingleDetailSpecs>
+	</Details>
+	<Descriptions>
+		<ParagraphDescr>This is just a test</ParagraphDescr>
+		<ParagraphDescr>Aaaaaand a second paragraph</ParagraphDescr>
+		<ParagraphDescr>A third one is required</ParagraphDescr>
+	</Descriptions>
+	<SpecialThanks>
+		<Thanks>Moci, for her support</Thanks>
+		<Thanks>Lonevetad, for creating contents</Thanks>
+		<Thanks>Morbelli, for pushing Lonevetad on writing</Thanks>
+	</SpecialThanks>
+	<comment></comment>
+</WrittenWork>
